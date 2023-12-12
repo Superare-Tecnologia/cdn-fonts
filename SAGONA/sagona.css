@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-ExtraLightItalic.woff2') format('woff2'),
+        url('Sagona-ExtraLightItalic.woff') format('woff'),
+        url('Sagona-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-Light.woff2') format('woff2'),
+        url('Sagona-Light.woff') format('woff'),
+        url('Sagona-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-HeavyItalic.woff2') format('woff2'),
+        url('Sagona-HeavyItalic.woff') format('woff'),
+        url('Sagona-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-Medium.woff2') format('woff2'),
+        url('Sagona-Medium.woff') format('woff'),
+        url('Sagona-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-LightItalic.woff2') format('woff2'),
+        url('Sagona-LightItalic.woff') format('woff'),
+        url('Sagona-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-Heavy.woff2') format('woff2'),
+        url('Sagona-Heavy.woff') format('woff'),
+        url('Sagona-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-MediumItalic.woff2') format('woff2'),
+        url('Sagona-MediumItalic.woff') format('woff'),
+        url('Sagona-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-SemiBold.woff2') format('woff2'),
+        url('Sagona-SemiBold.woff') format('woff'),
+        url('Sagona-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona Book';
+    src: url('Sagona-Bold.woff2') format('woff2'),
+        url('Sagona-Bold.woff') format('woff'),
+        url('Sagona-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-ThinItalic.woff2') format('woff2'),
+        url('Sagona-ThinItalic.woff') format('woff'),
+        url('Sagona-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-SemiBoldItalic.woff2') format('woff2'),
+        url('Sagona-SemiBoldItalic.woff') format('woff'),
+        url('Sagona-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-Thin.woff2') format('woff2'),
+        url('Sagona-Thin.woff') format('woff'),
+        url('Sagona-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona Book';
+    src: url('Sagona-BoldItalic.woff2') format('woff2'),
+        url('Sagona-BoldItalic.woff') format('woff'),
+        url('Sagona-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-ExtraLight.woff2') format('woff2'),
+        url('Sagona-ExtraLight.woff') format('woff'),
+        url('Sagona-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona Book';
+    src: url('Sagona-Book.woff2') format('woff2'),
+        url('Sagona-Book.woff') format('woff'),
+        url('Sagona-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-ExtraBold.woff2') format('woff2'),
+        url('Sagona-ExtraBold.woff') format('woff'),
+        url('Sagona-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona';
+    src: url('Sagona-ExtraBoldItalic.woff2') format('woff2'),
+        url('Sagona-ExtraBoldItalic.woff') format('woff'),
+        url('Sagona-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sagona Book';
+    src: url('Sagona-BookItalic.woff2') format('woff2'),
+        url('Sagona-BookItalic.woff') format('woff'),
+        url('Sagona-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
